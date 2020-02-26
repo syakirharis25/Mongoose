@@ -15,6 +15,10 @@ Mongoose provides a straight-forward, schema-based solution to model your applic
 <a name="references"></a>
 ## 2. Official references websites. <br />
 Mongoose official website : https://mongoosejs.com <br />
+Mongoose official documentation : https://mongoosejs.com/docs/guide.html <br />
+
+**_Mongoose documentation by mongoosejs.com_**
+Connections by mongoosejs.com : https://mongoosejs.com/docs/connections.html <br />
 
 **_Mongoose related articles_**
 Introduction to Mongoose for MongoDB by FreeCodeCamp : https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/#:~:text=Mongoose%20is%20an%20Object%20Data,of%20those%20objects%20in%20MongoDB.
