@@ -13,11 +13,11 @@ My works related to Mongoose, an Object Data Modeling (ODM) library for MongoDB 
 Mongoose provides a straight-forward, schema-based solution to model your application data. It includes built-in type casting, validation, query building, business logic hooks and more, out of the box. Mongoose is an Object Data Modeling (ODM) library for MongoDB and Node.js. It manages relationships between data, provides schema validation, and is used to translate between objects in code and the representation of those objects in MongoDB.
 
 <a name="references"></a>
-## 2. Official references websites. <br />
+## 2. Official references websites.
 Mongoose official website : https://mongoosejs.com <br />
 Mongoose official documentation : https://mongoosejs.com/docs/guide.html <br />
 
-**_Mongoose questions and answers website_**
+**_Mongoose questions and answers website_** <br />
 Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_Mongoose documentation by mongoosejs.com_** <br />
