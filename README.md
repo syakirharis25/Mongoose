@@ -17,10 +17,16 @@ Mongoose provides a straight-forward, schema-based solution to model your applic
 Mongoose official website : https://mongoosejs.com <br />
 Mongoose official documentation : https://mongoosejs.com/docs/guide.html <br />
 
-**_Mongoose documentation by mongoosejs.com_**
+**_Mongoose questions and answers website_**
+Stack Overflow questions and answers website : https://stackoverflow.com <br />
+
+**_Mongoose documentation by mongoosejs.com_** <br />
 Connections by mongoosejs.com : https://mongoosejs.com/docs/connections.html <br />
 
-**_Mongoose related articles_**
+**_Mongoose questions and answers by Stack Overflow_** <br />
+Mongoose: the function “once” by Stack Overflow : https://stackoverflow.com/questions/17575300/mongoose-the-function-once <br />
+ 
+**_Mongoose related articles_** <br />
 Introduction to Mongoose for MongoDB by FreeCodeCamp : https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/#:~:text=Mongoose%20is%20an%20Object%20Data,of%20those%20objects%20in%20MongoDB.
  
 <a name="github"></a>
