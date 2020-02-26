@@ -27,6 +27,7 @@ Built-in Promises by mongoosejs.com : https://mongoosejs.com/docs/promises.html 
 
 **_Mongoose questions and answers by Stack Overflow_** <br />
 Mongoose: the function “once” by Stack Overflow : https://stackoverflow.com/questions/17575300/mongoose-the-function-once <br />
+Mongoose - Why we make “mongoose.Promise = global.Promise” when setting a mongoose module? by Stack Overflow : https://stackoverflow.com/questions/51862570/mongoose-why-we-make-mongoose-promise-global-promise-when-setting-a-mongoo <br />
  
 **_Mongoose related articles_** <br />
 Introduction to Mongoose for MongoDB by FreeCodeCamp : https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/#:~:text=Mongoose%20is%20an%20Object%20Data,of%20those%20objects%20in%20MongoDB.
