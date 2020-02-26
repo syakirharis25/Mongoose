@@ -22,12 +22,14 @@ Stack Overflow questions and answers website : https://stackoverflow.com <br />
 
 **_Mongoose documentation by mongoosejs.com_** <br />
 Connections by mongoosejs.com : https://mongoosejs.com/docs/connections.html <br />
+Deprecation Warnings by mongoosejs.com : https://mongoosejs.com/docs/deprecations.html <br />
 
 **_Mongoose questions and answers by Stack Overflow_** <br />
 Mongoose: the function “once” by Stack Overflow : https://stackoverflow.com/questions/17575300/mongoose-the-function-once <br />
  
 **_Mongoose related articles_** <br />
 Introduction to Mongoose for MongoDB by FreeCodeCamp : https://www.freecodecamp.org/news/introduction-to-mongoose-for-mongodb-d2a7aa593c57/#:~:text=Mongoose%20is%20an%20Object%20Data,of%20those%20objects%20in%20MongoDB.
+DeprecationWarning: current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor. #8156 by github.com : https://github.com/Automattic/mongoose/issues/8156 <br />
  
 <a name="github"></a>
 ## 3. GitHub notes.
