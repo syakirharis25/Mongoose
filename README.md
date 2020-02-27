@@ -25,6 +25,7 @@ Connections by mongoosejs.com : https://mongoosejs.com/docs/connections.html <br
 Deprecation Warnings by mongoosejs.com : https://mongoosejs.com/docs/deprecations.html <br />
 Built-in Promises by mongoosejs.com : https://mongoosejs.com/docs/promises.html <br />
 Document by mongoosejs.com : https://mongoosejs.com/docs/api/document.html <br />
+Middleware by mongoosejs.com : https://mongoosejs.com/docs/middleware.html <br />
 
 **_Mongoose questions and answers by Stack Overflow_** <br />
 Mongoose: the function “once” by Stack Overflow : https://stackoverflow.com/questions/17575300/mongoose-the-function-once <br />
